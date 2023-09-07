@@ -1,1 +1,3 @@
-# MangoDistributionAI
+# Smart Mango Distribution System
+
+This repository contains code for a Smart Mango Distribution System, which utilizes IoT-based data and intelligent decision support techniques to optimize the distribution of mangoes. The system leverages machine learning algorithms to predict the maturity level of mangoes and make informed decisions for their distribution. This is a joint work with [BRAIN IPB (Bogor Agricultural University, Indonesia)](https://brain.ipb.ac.id/)
